@@ -9,6 +9,7 @@ wheels/
 # Virtual environments
 .venv
 **/.DS_STORE
+**/.DS_STORE/
 
 # .inpynb_checkpoints
 .ipynb_checkpoints
@@ -98,6 +99,7 @@ celerybeat-schedule
 # dotenv
 .env
 */*.env
+**/.env/
 
 # virtualenv
 .venv

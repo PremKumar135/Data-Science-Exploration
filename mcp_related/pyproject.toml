@@ -1,0 +1,19 @@
+[project]
+name = "mcp-related"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi-mcp>=0.3.3",
+    "fastembed>=0.6.1",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.23",
+    "langchain-core>=0.3.58",
+    "langchain-mcp-adapters>=0.0.10",
+    "langchain-openai>=0.3.16",
+    "langgraph>=0.4.1",
+    "mcp>=1.7.1",
+    "mcp-use>=1.2.8",
+]
